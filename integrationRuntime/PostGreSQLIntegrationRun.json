@@ -1,0 +1,6 @@
+{
+	"name": "PostGreSQLIntegrationRun",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

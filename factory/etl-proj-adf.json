@@ -1,0 +1,15 @@
+{
+	"name": "etl-proj-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "069c0dec-5537-475c-988a-889f6d233bc0",
+		"tenantId": "b1224fbb-e5df-409e-a437-2fdb25d4bcca"
+	}
+}
